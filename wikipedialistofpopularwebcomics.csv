@@ -1,14 +1,14 @@
-[u'/wiki/Witches_and_Stitches', u'Witches and Stitches']
-[u'/wiki/T.H.E._Fox', u'T.H.E. Fox']
-[u'/wiki/Where_the_Buffalo_Roam_(webcomic)', u'Where the Buffalo Roam (webcomic)']
-[u'/wiki/Doctor_Fun', u'Doctor Fun']
-[u'/wiki/Dysfunctional_Family_Circus', u'Dysfunctional Family Circus']
-[u'/wiki/NetBoy', u'NetBoy']
-[u'/wiki/Rogues_of_Clwyd-Rhan', u'Rogues of Clwyd-Rhan']
-[u'/wiki/Art_Comics_Daily', u'Art Comics Daily']
-[u'/wiki/Polymer_City_Chronicles', u'Polymer City Chronicles']
-[u'/wiki/Argon_Zark!', u'Argon Zark!']
-[u'/wiki/Kevin_and_Kell', u'Kevin and Kell']
+["url", "title", "highest number"]
+[u'http://cbmfiles.com/genie/TheFoxListing.php', u'T.H.E. Fox'] #non-standard
+[u'http://www.shadowculture.com/wtbr/archives/week-%s.html', u'Where the Buffalo Roam (webcomic)', "6"]
+[u'https://www.ibiblio.org/Dave/bac-archive-%s.htm', u'Doctor Fun'] #very non-standard
+[u'http://dfc.furr.org/', u'Dysfunctional Family Circus'] #non-standard
+[u'http://netboy.com/blog/', u'NetBoy'] #non-standard.  Wordpress might make this mineable.
+[u'http://www.rocr.net/index.php?p=GKBcover', u'Rogues of Clwyd-Rhan'] #non-standard but mineable.
+[u'http://www.artcomic.com/today.html', u'Art Comics Daily'] #???? Can't get old archives?
+[u'http://www.polymercitychronicles.com/archive/%s.html', u'Polymer City Chronicles', "20000104-20071031"]
+[u'http://www.zark.com/pages/aztitle.html', u'Argon Zark!'] #nonstandard
+[u'http://www.kevinandkell.com/1995/kk0903.html', u'Kevin and Kell'] #nonstandard
 [u'/wiki/Eric_Millikin', u'Eric Millikin']
 [u'/wiki/Bruno_(webcomic)', u'Bruno (webcomic)']
 [u'/wiki/Help_Desk_(webcomic)', u'Help Desk (webcomic)']
