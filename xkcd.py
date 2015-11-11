@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 session = requests.session()
 comic_info = []
-x = 1
+x = 0
 
 while True:
     x += 1
